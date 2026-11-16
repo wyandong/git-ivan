@@ -1,0 +1,21 @@
+# 编译产物
+bin/
+target-tmp/
+*.class
+
+# 运行时依赖
+lib/
+
+# IDE 个人配置
+.vscode/
+.idea/
+*.iml
+
+# 运行时数据
+stu.dat
+
+# 文档
+README.md
+
+# 日志
+*.log
