@@ -8,6 +8,7 @@ import java.util.stream.Stream;
 public class App {
     public static void main(String[] args) throws Exception {
         // FunctionalProgramming.main(args);
+        System.out.println("access remote github repository");
 
         System.out.println(Date.class.getName());
         System.out.println(Date.class.getSimpleName());
